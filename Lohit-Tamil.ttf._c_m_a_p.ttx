@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="3" language="0">
+      <map code="0x0" name=".null"/><!-- &lt;control> -->
+      <map code="0xc" name="nonmarkingreturn"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="dollar"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="ampersand"/><!-- AMPERSAND -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x40" name="at"/><!-- COMMERCIAL AT -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x60" name="grave"/><!-- GRAVE ACCENT -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa2" name="cent"/><!-- CENT SIGN -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="divide"/><!-- DIVISION SIGN -->
+      <map code="0x964" name="uni0964"/><!-- DEVANAGARI DANDA -->
+      <map code="0x965" name="uni0965"/><!-- DEVANAGARI DOUBLE DANDA -->
+      <map code="0xb82" name="u0b82"/><!-- TAMIL SIGN ANUSVARA -->
+      <map code="0xb83" name="u0B83"/><!-- TAMIL SIGN VISARGA -->
+      <map code="0xb85" name="u0B85"/><!-- TAMIL LETTER A -->
+      <map code="0xb86" name="u0B86"/><!-- TAMIL LETTER AA -->
+      <map code="0xb87" name="u0B87"/><!-- TAMIL LETTER I -->
+      <map code="0xb88" name="u0B88"/><!-- TAMIL LETTER II -->
+      <map code="0xb89" name="u0B89"/><!-- TAMIL LETTER U -->
+      <map code="0xb8a" name="u0B8A"/><!-- TAMIL LETTER UU -->
+      <map code="0xb8e" name="u0B8E"/><!-- TAMIL LETTER E -->
+      <map code="0xb8f" name="u0B8F"/><!-- TAMIL LETTER EE -->
+      <map code="0xb90" name="u0B90"/><!-- TAMIL LETTER AI -->
+      <map code="0xb92" name="u0B92"/><!-- TAMIL LETTER O -->
+      <map code="0xb93" name="u0B93"/><!-- TAMIL LETTER OO -->
+      <map code="0xb94" name="u0B94"/><!-- TAMIL LETTER AU -->
+      <map code="0xb95" name="u0B95"/><!-- TAMIL LETTER KA -->
+      <map code="0xb99" name="u0B99"/><!-- TAMIL LETTER NGA -->
+      <map code="0xb9a" name="u0B9A"/><!-- TAMIL LETTER CA -->
+      <map code="0xb9c" name="u0B9C"/><!-- TAMIL LETTER JA -->
+      <map code="0xb9e" name="u0B9E"/><!-- TAMIL LETTER NYA -->
+      <map code="0xb9f" name="u0B9F"/><!-- TAMIL LETTER TTA -->
+      <map code="0xba3" name="u0BA3"/><!-- TAMIL LETTER NNA -->
+      <map code="0xba4" name="u0BA4"/><!-- TAMIL LETTER TA -->
+      <map code="0xba8" name="u0BA8"/><!-- TAMIL LETTER NA -->
+      <map code="0xba9" name="u0BA9"/><!-- TAMIL LETTER NNNA -->
+      <map code="0xbaa" name="u0BAA"/><!-- TAMIL LETTER PA -->
+      <map code="0xbae" name="u0BAE"/><!-- TAMIL LETTER MA -->
+      <map code="0xbaf" name="u0BAF"/><!-- TAMIL LETTER YA -->
+      <map code="0xbb0" name="u0BB0"/><!-- TAMIL LETTER RA -->
+      <map code="0xbb1" name="u0BB1"/><!-- TAMIL LETTER RRA -->
+      <map code="0xbb2" name="u0BB2"/><!-- TAMIL LETTER LA -->
+      <map code="0xbb3" name="u0BB3"/><!-- TAMIL LETTER LLA -->
+      <map code="0xbb4" name="u0BB4"/><!-- TAMIL LETTER LLLA -->
+      <map code="0xbb5" name="u0BB5"/><!-- TAMIL LETTER VA -->
+      <map code="0xbb6" name="u0BB6"/><!-- TAMIL LETTER SHA -->
+      <map code="0xbb7" name="u0BB7"/><!-- TAMIL LETTER SSA -->
+      <map code="0xbb8" name="u0BB8"/><!-- TAMIL LETTER SA -->
+      <map code="0xbb9" name="u0BB9"/><!-- TAMIL LETTER HA -->
+      <map code="0xbbe" name="u0BBE"/><!-- TAMIL VOWEL SIGN AA -->
+      <map code="0xbbf" name="u0BBF"/><!-- TAMIL VOWEL SIGN I -->
+      <map code="0xbc0" name="u0BC0"/><!-- TAMIL VOWEL SIGN II -->
+      <map code="0xbc1" name="u0BC1"/><!-- TAMIL VOWEL SIGN U -->
+      <map code="0xbc2" name="u0BC2"/><!-- TAMIL VOWEL SIGN UU -->
+      <map code="0xbc6" name="u0BC6"/><!-- TAMIL VOWEL SIGN E -->
+      <map code="0xbc7" name="u0BC7"/><!-- TAMIL VOWEL SIGN EE -->
+      <map code="0xbc8" name="u0BC8"/><!-- TAMIL VOWEL SIGN AI -->
+      <map code="0xbca" name="u0BCA"/><!-- TAMIL VOWEL SIGN O -->
+      <map code="0xbcb" name="u0BCB"/><!-- TAMIL VOWEL SIGN OO -->
+      <map code="0xbcc" name="u0BCC"/><!-- TAMIL VOWEL SIGN AU -->
+      <map code="0xbcd" name="u0BCD"/><!-- TAMIL SIGN VIRAMA -->
+      <map code="0xbd0" name="uni0BD0"/><!-- TAMIL OM -->
+      <map code="0xbd7" name="u0BD7"/><!-- TAMIL AU LENGTH MARK -->
+      <map code="0xbe6" name="u0BE6"/><!-- TAMIL DIGIT ZERO -->
+      <map code="0xbe7" name="u0BE7"/><!-- TAMIL DIGIT ONE -->
+      <map code="0xbe8" name="u0BE8"/><!-- TAMIL DIGIT TWO -->
+      <map code="0xbe9" name="u0BE9"/><!-- TAMIL DIGIT THREE -->
+      <map code="0xbea" name="u0BEA"/><!-- TAMIL DIGIT FOUR -->
+      <map code="0xbeb" name="u0BEB"/><!-- TAMIL DIGIT FIVE -->
+      <map code="0xbec" name="u0BEC"/><!-- TAMIL DIGIT SIX -->
+      <map code="0xbed" name="u0BED"/><!-- TAMIL DIGIT SEVEN -->
+      <map code="0xbee" name="u0BEE"/><!-- TAMIL DIGIT EIGHT -->
+      <map code="0xbef" name="u0BEF"/><!-- TAMIL DIGIT NINE -->
+      <map code="0xbf0" name="u0BF0"/><!-- TAMIL NUMBER TEN -->
+      <map code="0xbf1" name="u0BF1"/><!-- TAMIL NUMBER ONE HUNDRED -->
+      <map code="0xbf2" name="u0BF2"/><!-- TAMIL NUMBER ONE THOUSAND -->
+      <map code="0xbf3" name="u0BF3"/><!-- TAMIL DAY SIGN -->
+      <map code="0xbf4" name="u0BF4"/><!-- TAMIL MONTH SIGN -->
+      <map code="0xbf5" name="u0BF5"/><!-- TAMIL YEAR SIGN -->
+      <map code="0xbf6" name="u0BF6"/><!-- TAMIL DEBIT SIGN -->
+      <map code="0xbf7" name="u0BF7"/><!-- TAMIL CREDIT SIGN -->
+      <map code="0xbf8" name="u0BF8"/><!-- TAMIL AS ABOVE SIGN -->
+      <map code="0xbf9" name="u0BF9"/><!-- TAMIL RUPEE SIGN -->
+      <map code="0xbfa" name="u0BFA"/><!-- TAMIL NUMBER SIGN -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="afii301"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2026" name="ellipsis"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x20b9" name="uni20B9"/><!-- ???? -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+    </cmap_format_4>
+    <cmap_format_0 platformID="1" platEncID="0" language="0">
+      <map code="0x0" name=".null"/>
+      <map code="0x1" name=".notdef"/>
+      <map code="0x2" name=".notdef"/>
+      <map code="0x3" name=".notdef"/>
+      <map code="0x4" name=".notdef"/>
+      <map code="0x5" name=".notdef"/>
+      <map code="0x6" name=".notdef"/>
+      <map code="0x7" name=".notdef"/>
+      <map code="0x8" name=".null"/>
+      <map code="0x9" name="nonmarkingreturn"/>
+      <map code="0xa" name=".notdef"/>
+      <map code="0xb" name=".notdef"/>
+      <map code="0xc" name="nonmarkingreturn"/>
+      <map code="0xd" name="nonmarkingreturn"/>
+      <map code="0xe" name=".notdef"/>
+      <map code="0xf" name=".notdef"/>
+      <map code="0x10" name=".notdef"/>
+      <map code="0x11" name=".notdef"/>
+      <map code="0x12" name=".notdef"/>
+      <map code="0x13" name=".notdef"/>
+      <map code="0x14" name=".notdef"/>
+      <map code="0x15" name=".notdef"/>
+      <map code="0x16" name=".notdef"/>
+      <map code="0x17" name=".notdef"/>
+      <map code="0x18" name=".notdef"/>
+      <map code="0x19" name=".notdef"/>
+      <map code="0x1a" name=".notdef"/>
+      <map code="0x1b" name=".notdef"/>
+      <map code="0x1c" name=".notdef"/>
+      <map code="0x1d" name=".null"/>
+      <map code="0x1e" name=".notdef"/>
+      <map code="0x1f" name=".notdef"/>
+      <map code="0x20" name="space"/>
+      <map code="0x21" name="exclam"/>
+      <map code="0x22" name="quotedbl"/>
+      <map code="0x23" name="numbersign"/>
+      <map code="0x24" name="dollar"/>
+      <map code="0x25" name="percent"/>
+      <map code="0x26" name="ampersand"/>
+      <map code="0x27" name="quotesingle"/>
+      <map code="0x28" name="parenleft"/>
+      <map code="0x29" name="parenright"/>
+      <map code="0x2a" name="asterisk"/>
+      <map code="0x2b" name="plus"/>
+      <map code="0x2c" name="comma"/>
+      <map code="0x2d" name="hyphen"/>
+      <map code="0x2e" name="period"/>
+      <map code="0x2f" name="slash"/>
+      <map code="0x30" name="zero"/>
+      <map code="0x31" name="one"/>
+      <map code="0x32" name="two"/>
+      <map code="0x33" name="three"/>
+      <map code="0x34" name="four"/>
+      <map code="0x35" name="five"/>
+      <map code="0x36" name="six"/>
+      <map code="0x37" name="seven"/>
+      <map code="0x38" name="eight"/>
+      <map code="0x39" name="nine"/>
+      <map code="0x3a" name="colon"/>
+      <map code="0x3b" name="semicolon"/>
+      <map code="0x3c" name="less"/>
+      <map code="0x3d" name="equal"/>
+      <map code="0x3e" name="greater"/>
+      <map code="0x3f" name="question"/>
+      <map code="0x40" name="at"/>
+      <map code="0x41" name=".notdef"/>
+      <map code="0x42" name=".notdef"/>
+      <map code="0x43" name=".notdef"/>
+      <map code="0x44" name=".notdef"/>
+      <map code="0x45" name=".notdef"/>
+      <map code="0x46" name=".notdef"/>
+      <map code="0x47" name=".notdef"/>
+      <map code="0x48" name=".notdef"/>
+      <map code="0x49" name=".notdef"/>
+      <map code="0x4a" name=".notdef"/>
+      <map code="0x4b" name=".notdef"/>
+      <map code="0x4c" name=".notdef"/>
+      <map code="0x4d" name=".notdef"/>
+      <map code="0x4e" name=".notdef"/>
+      <map code="0x4f" name=".notdef"/>
+      <map code="0x50" name=".notdef"/>
+      <map code="0x51" name=".notdef"/>
+      <map code="0x52" name=".notdef"/>
+      <map code="0x53" name=".notdef"/>
+      <map code="0x54" name=".notdef"/>
+      <map code="0x55" name=".notdef"/>
+      <map code="0x56" name=".notdef"/>
+      <map code="0x57" name=".notdef"/>
+      <map code="0x58" name=".notdef"/>
+      <map code="0x59" name=".notdef"/>
+      <map code="0x5a" name=".notdef"/>
+      <map code="0x5b" name="bracketleft"/>
+      <map code="0x5c" name="backslash"/>
+      <map code="0x5d" name="bracketright"/>
+      <map code="0x5e" name="asciicircum"/>
+      <map code="0x5f" name="underscore"/>
+      <map code="0x60" name="grave"/>
+      <map code="0x61" name=".notdef"/>
+      <map code="0x62" name=".notdef"/>
+      <map code="0x63" name=".notdef"/>
+      <map code="0x64" name=".notdef"/>
+      <map code="0x65" name=".notdef"/>
+      <map code="0x66" name=".notdef"/>
+      <map code="0x67" name=".notdef"/>
+      <map code="0x68" name=".notdef"/>
+      <map code="0x69" name=".notdef"/>
+      <map code="0x6a" name=".notdef"/>
+      <map code="0x6b" name=".notdef"/>
+      <map code="0x6c" name=".notdef"/>
+      <map code="0x6d" name=".notdef"/>
+      <map code="0x6e" name=".notdef"/>
+      <map code="0x6f" name=".notdef"/>
+      <map code="0x70" name=".notdef"/>
+      <map code="0x71" name=".notdef"/>
+      <map code="0x72" name=".notdef"/>
+      <map code="0x73" name=".notdef"/>
+      <map code="0x74" name=".notdef"/>
+      <map code="0x75" name=".notdef"/>
+      <map code="0x76" name=".notdef"/>
+      <map code="0x77" name=".notdef"/>
+      <map code="0x78" name=".notdef"/>
+      <map code="0x79" name=".notdef"/>
+      <map code="0x7a" name=".notdef"/>
+      <map code="0x7b" name="braceleft"/>
+      <map code="0x7c" name="bar"/>
+      <map code="0x7d" name="braceright"/>
+      <map code="0x7e" name="asciitilde"/>
+      <map code="0x7f" name=".notdef"/>
+      <map code="0x80" name=".notdef"/>
+      <map code="0x81" name=".notdef"/>
+      <map code="0x82" name=".notdef"/>
+      <map code="0x83" name=".notdef"/>
+      <map code="0x84" name=".notdef"/>
+      <map code="0x85" name=".notdef"/>
+      <map code="0x86" name=".notdef"/>
+      <map code="0x87" name=".notdef"/>
+      <map code="0x88" name=".notdef"/>
+      <map code="0x89" name=".notdef"/>
+      <map code="0x8a" name=".notdef"/>
+      <map code="0x8b" name=".notdef"/>
+      <map code="0x8c" name=".notdef"/>
+      <map code="0x8d" name=".notdef"/>
+      <map code="0x8e" name=".notdef"/>
+      <map code="0x8f" name=".notdef"/>
+      <map code="0x90" name=".notdef"/>
+      <map code="0x91" name=".notdef"/>
+      <map code="0x92" name=".notdef"/>
+      <map code="0x93" name=".notdef"/>
+      <map code="0x94" name=".notdef"/>
+      <map code="0x95" name=".notdef"/>
+      <map code="0x96" name=".notdef"/>
+      <map code="0x97" name=".notdef"/>
+      <map code="0x98" name=".notdef"/>
+      <map code="0x99" name=".notdef"/>
+      <map code="0x9a" name=".notdef"/>
+      <map code="0x9b" name=".notdef"/>
+      <map code="0x9c" name=".notdef"/>
+      <map code="0x9d" name=".notdef"/>
+      <map code="0x9e" name=".notdef"/>
+      <map code="0x9f" name=".notdef"/>
+      <map code="0xa0" name=".notdef"/>
+      <map code="0xa1" name=".notdef"/>
+      <map code="0xa2" name="cent"/>
+      <map code="0xa3" name=".notdef"/>
+      <map code="0xa4" name=".notdef"/>
+      <map code="0xa5" name=".notdef"/>
+      <map code="0xa6" name=".notdef"/>
+      <map code="0xa7" name=".notdef"/>
+      <map code="0xa8" name=".notdef"/>
+      <map code="0xa9" name=".notdef"/>
+      <map code="0xaa" name=".notdef"/>
+      <map code="0xab" name=".notdef"/>
+      <map code="0xac" name=".notdef"/>
+      <map code="0xad" name=".notdef"/>
+      <map code="0xae" name=".notdef"/>
+      <map code="0xaf" name=".notdef"/>
+      <map code="0xb0" name=".notdef"/>
+      <map code="0xb1" name=".notdef"/>
+      <map code="0xb2" name=".notdef"/>
+      <map code="0xb3" name=".notdef"/>
+      <map code="0xb4" name=".notdef"/>
+      <map code="0xb5" name=".notdef"/>
+      <map code="0xb6" name=".notdef"/>
+      <map code="0xb7" name=".notdef"/>
+      <map code="0xb8" name=".notdef"/>
+      <map code="0xb9" name=".notdef"/>
+      <map code="0xba" name=".notdef"/>
+      <map code="0xbb" name=".notdef"/>
+      <map code="0xbc" name=".notdef"/>
+      <map code="0xbd" name=".notdef"/>
+      <map code="0xbe" name=".notdef"/>
+      <map code="0xbf" name=".notdef"/>
+      <map code="0xc0" name=".notdef"/>
+      <map code="0xc1" name=".notdef"/>
+      <map code="0xc2" name=".notdef"/>
+      <map code="0xc3" name=".notdef"/>
+      <map code="0xc4" name=".notdef"/>
+      <map code="0xc5" name=".notdef"/>
+      <map code="0xc6" name=".notdef"/>
+      <map code="0xc7" name=".notdef"/>
+      <map code="0xc8" name=".notdef"/>
+      <map code="0xc9" name="ellipsis"/>
+      <map code="0xca" name=".notdef"/>
+      <map code="0xcb" name=".notdef"/>
+      <map code="0xcc" name=".notdef"/>
+      <map code="0xcd" name=".notdef"/>
+      <map code="0xce" name=".notdef"/>
+      <map code="0xcf" name=".notdef"/>
+      <map code="0xd0" name="endash"/>
+      <map code="0xd1" name="emdash"/>
+      <map code="0xd2" name="quotedblleft"/>
+      <map code="0xd3" name="quotedblright"/>
+      <map code="0xd4" name="quoteleft"/>
+      <map code="0xd5" name="quoteright"/>
+      <map code="0xd6" name="divide"/>
+      <map code="0xd7" name=".notdef"/>
+      <map code="0xd8" name=".notdef"/>
+      <map code="0xd9" name=".notdef"/>
+      <map code="0xda" name=".notdef"/>
+      <map code="0xdb" name=".notdef"/>
+      <map code="0xdc" name=".notdef"/>
+      <map code="0xdd" name=".notdef"/>
+      <map code="0xde" name=".notdef"/>
+      <map code="0xdf" name=".notdef"/>
+      <map code="0xe0" name=".notdef"/>
+      <map code="0xe1" name=".notdef"/>
+      <map code="0xe2" name=".notdef"/>
+      <map code="0xe3" name=".notdef"/>
+      <map code="0xe4" name=".notdef"/>
+      <map code="0xe5" name=".notdef"/>
+      <map code="0xe6" name=".notdef"/>
+      <map code="0xe7" name=".notdef"/>
+      <map code="0xe8" name=".notdef"/>
+      <map code="0xe9" name=".notdef"/>
+      <map code="0xea" name=".notdef"/>
+      <map code="0xeb" name=".notdef"/>
+      <map code="0xec" name=".notdef"/>
+      <map code="0xed" name=".notdef"/>
+      <map code="0xee" name=".notdef"/>
+      <map code="0xef" name=".notdef"/>
+      <map code="0xf0" name=".notdef"/>
+      <map code="0xf1" name=".notdef"/>
+      <map code="0xf2" name=".notdef"/>
+      <map code="0xf3" name=".notdef"/>
+      <map code="0xf4" name=".notdef"/>
+      <map code="0xf5" name=".notdef"/>
+      <map code="0xf6" name=".notdef"/>
+      <map code="0xf7" name=".notdef"/>
+      <map code="0xf8" name=".notdef"/>
+      <map code="0xf9" name=".notdef"/>
+      <map code="0xfa" name=".notdef"/>
+      <map code="0xfb" name=".notdef"/>
+      <map code="0xfc" name=".notdef"/>
+      <map code="0xfd" name=".notdef"/>
+      <map code="0xfe" name=".notdef"/>
+      <map code="0xff" name=".notdef"/>
+    </cmap_format_0>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name=".null"/><!-- &lt;control> -->
+      <map code="0xc" name="nonmarkingreturn"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="dollar"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="ampersand"/><!-- AMPERSAND -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x40" name="at"/><!-- COMMERCIAL AT -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x60" name="grave"/><!-- GRAVE ACCENT -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa2" name="cent"/><!-- CENT SIGN -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="divide"/><!-- DIVISION SIGN -->
+      <map code="0x964" name="uni0964"/><!-- DEVANAGARI DANDA -->
+      <map code="0x965" name="uni0965"/><!-- DEVANAGARI DOUBLE DANDA -->
+      <map code="0xb82" name="u0b82"/><!-- TAMIL SIGN ANUSVARA -->
+      <map code="0xb83" name="u0B83"/><!-- TAMIL SIGN VISARGA -->
+      <map code="0xb85" name="u0B85"/><!-- TAMIL LETTER A -->
+      <map code="0xb86" name="u0B86"/><!-- TAMIL LETTER AA -->
+      <map code="0xb87" name="u0B87"/><!-- TAMIL LETTER I -->
+      <map code="0xb88" name="u0B88"/><!-- TAMIL LETTER II -->
+      <map code="0xb89" name="u0B89"/><!-- TAMIL LETTER U -->
+      <map code="0xb8a" name="u0B8A"/><!-- TAMIL LETTER UU -->
+      <map code="0xb8e" name="u0B8E"/><!-- TAMIL LETTER E -->
+      <map code="0xb8f" name="u0B8F"/><!-- TAMIL LETTER EE -->
+      <map code="0xb90" name="u0B90"/><!-- TAMIL LETTER AI -->
+      <map code="0xb92" name="u0B92"/><!-- TAMIL LETTER O -->
+      <map code="0xb93" name="u0B93"/><!-- TAMIL LETTER OO -->
+      <map code="0xb94" name="u0B94"/><!-- TAMIL LETTER AU -->
+      <map code="0xb95" name="u0B95"/><!-- TAMIL LETTER KA -->
+      <map code="0xb99" name="u0B99"/><!-- TAMIL LETTER NGA -->
+      <map code="0xb9a" name="u0B9A"/><!-- TAMIL LETTER CA -->
+      <map code="0xb9c" name="u0B9C"/><!-- TAMIL LETTER JA -->
+      <map code="0xb9e" name="u0B9E"/><!-- TAMIL LETTER NYA -->
+      <map code="0xb9f" name="u0B9F"/><!-- TAMIL LETTER TTA -->
+      <map code="0xba3" name="u0BA3"/><!-- TAMIL LETTER NNA -->
+      <map code="0xba4" name="u0BA4"/><!-- TAMIL LETTER TA -->
+      <map code="0xba8" name="u0BA8"/><!-- TAMIL LETTER NA -->
+      <map code="0xba9" name="u0BA9"/><!-- TAMIL LETTER NNNA -->
+      <map code="0xbaa" name="u0BAA"/><!-- TAMIL LETTER PA -->
+      <map code="0xbae" name="u0BAE"/><!-- TAMIL LETTER MA -->
+      <map code="0xbaf" name="u0BAF"/><!-- TAMIL LETTER YA -->
+      <map code="0xbb0" name="u0BB0"/><!-- TAMIL LETTER RA -->
+      <map code="0xbb1" name="u0BB1"/><!-- TAMIL LETTER RRA -->
+      <map code="0xbb2" name="u0BB2"/><!-- TAMIL LETTER LA -->
+      <map code="0xbb3" name="u0BB3"/><!-- TAMIL LETTER LLA -->
+      <map code="0xbb4" name="u0BB4"/><!-- TAMIL LETTER LLLA -->
+      <map code="0xbb5" name="u0BB5"/><!-- TAMIL LETTER VA -->
+      <map code="0xbb6" name="u0BB6"/><!-- TAMIL LETTER SHA -->
+      <map code="0xbb7" name="u0BB7"/><!-- TAMIL LETTER SSA -->
+      <map code="0xbb8" name="u0BB8"/><!-- TAMIL LETTER SA -->
+      <map code="0xbb9" name="u0BB9"/><!-- TAMIL LETTER HA -->
+      <map code="0xbbe" name="u0BBE"/><!-- TAMIL VOWEL SIGN AA -->
+      <map code="0xbbf" name="u0BBF"/><!-- TAMIL VOWEL SIGN I -->
+      <map code="0xbc0" name="u0BC0"/><!-- TAMIL VOWEL SIGN II -->
+      <map code="0xbc1" name="u0BC1"/><!-- TAMIL VOWEL SIGN U -->
+      <map code="0xbc2" name="u0BC2"/><!-- TAMIL VOWEL SIGN UU -->
+      <map code="0xbc6" name="u0BC6"/><!-- TAMIL VOWEL SIGN E -->
+      <map code="0xbc7" name="u0BC7"/><!-- TAMIL VOWEL SIGN EE -->
+      <map code="0xbc8" name="u0BC8"/><!-- TAMIL VOWEL SIGN AI -->
+      <map code="0xbca" name="u0BCA"/><!-- TAMIL VOWEL SIGN O -->
+      <map code="0xbcb" name="u0BCB"/><!-- TAMIL VOWEL SIGN OO -->
+      <map code="0xbcc" name="u0BCC"/><!-- TAMIL VOWEL SIGN AU -->
+      <map code="0xbcd" name="u0BCD"/><!-- TAMIL SIGN VIRAMA -->
+      <map code="0xbd0" name="uni0BD0"/><!-- TAMIL OM -->
+      <map code="0xbd7" name="u0BD7"/><!-- TAMIL AU LENGTH MARK -->
+      <map code="0xbe6" name="u0BE6"/><!-- TAMIL DIGIT ZERO -->
+      <map code="0xbe7" name="u0BE7"/><!-- TAMIL DIGIT ONE -->
+      <map code="0xbe8" name="u0BE8"/><!-- TAMIL DIGIT TWO -->
+      <map code="0xbe9" name="u0BE9"/><!-- TAMIL DIGIT THREE -->
+      <map code="0xbea" name="u0BEA"/><!-- TAMIL DIGIT FOUR -->
+      <map code="0xbeb" name="u0BEB"/><!-- TAMIL DIGIT FIVE -->
+      <map code="0xbec" name="u0BEC"/><!-- TAMIL DIGIT SIX -->
+      <map code="0xbed" name="u0BED"/><!-- TAMIL DIGIT SEVEN -->
+      <map code="0xbee" name="u0BEE"/><!-- TAMIL DIGIT EIGHT -->
+      <map code="0xbef" name="u0BEF"/><!-- TAMIL DIGIT NINE -->
+      <map code="0xbf0" name="u0BF0"/><!-- TAMIL NUMBER TEN -->
+      <map code="0xbf1" name="u0BF1"/><!-- TAMIL NUMBER ONE HUNDRED -->
+      <map code="0xbf2" name="u0BF2"/><!-- TAMIL NUMBER ONE THOUSAND -->
+      <map code="0xbf3" name="u0BF3"/><!-- TAMIL DAY SIGN -->
+      <map code="0xbf4" name="u0BF4"/><!-- TAMIL MONTH SIGN -->
+      <map code="0xbf5" name="u0BF5"/><!-- TAMIL YEAR SIGN -->
+      <map code="0xbf6" name="u0BF6"/><!-- TAMIL DEBIT SIGN -->
+      <map code="0xbf7" name="u0BF7"/><!-- TAMIL CREDIT SIGN -->
+      <map code="0xbf8" name="u0BF8"/><!-- TAMIL AS ABOVE SIGN -->
+      <map code="0xbf9" name="u0BF9"/><!-- TAMIL RUPEE SIGN -->
+      <map code="0xbfa" name="u0BFA"/><!-- TAMIL NUMBER SIGN -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="afii301"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2026" name="ellipsis"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x20b9" name="uni20B9"/><!-- ???? -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

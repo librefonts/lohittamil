@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <prep>
+    <assembly>
+      NPUSHB[ ]  /* 2 values pushed */
+      69 1
+      SCANTYPE[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      511
+      SCANCTRL[ ]
+      SROUND[ ]
+      RTG[ ]
+    </assembly>
+  </prep>
+
+</ttFont>

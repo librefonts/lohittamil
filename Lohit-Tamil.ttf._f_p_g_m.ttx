@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <fpgm>
+    <assembly>
+      NPUSHB[ ]  /* 5 values pushed */
+      5 4 3 2 0
+      FDEF[ ]
+      SROUND[ ]
+      RCVT[ ]
+      DUP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CINDEX[ ]
+      RCVT[ ]
+      SWAP[ ]
+      SUB[ ]
+      ROUND[00]
+      RTG[ ]
+      SWAP[ ]
+      ROUND[00]
+      ADD[ ]
+      WCVTP[ ]
+      ENDF[ ]
+      FDEF[ ]
+      RCVT[ ]
+      DUP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CINDEX[ ]
+      RCVT[ ]
+      SWAP[ ]
+      SUB[ ]
+      ROUND[00]
+      SWAP[ ]
+      ROUND[00]
+      ADD[ ]
+      WCVTP[ ]
+      ENDF[ ]
+      FDEF[ ]
+      DUP[ ]
+      DUP[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      -64
+      SHPIX[ ]
+      SRP2[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      64 1
+      SHZ[0]
+      SHPIX[ ]
+      ENDF[ ]
+      FDEF[ ]
+      DUP[ ]
+      DUP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      64
+      SHPIX[ ]
+      SRP2[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      1
+      SHZ[0]
+      PUSHW[ ]  /* 1 value pushed */
+      -64
+      SHPIX[ ]
+      ENDF[ ]
+      FDEF[ ]
+      SVTCA[1]
+      PUSHB[ ]  /* 1 value pushed */
+      70
+      SROUND[ ]
+      DUP[ ]
+      GC[1]
+      ROUND[00]
+      RTG[ ]
+      SWAP[ ]
+      GC[0]
+      SUB[ ]
+      ROUND[00]
+      DUP[ ]
+      IF[ ]
+      DUP[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      3
+      CINDEX[ ]
+      SWAP[ ]
+      SHPIX[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      2
+      CINDEX[ ]
+      SRP2[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      1
+      SHZ[0]
+      NEG[ ]
+      SHPIX[ ]
+      EIF[ ]
+      ENDF[ ]
+    </assembly>
+  </fpgm>
+
+</ttFont>

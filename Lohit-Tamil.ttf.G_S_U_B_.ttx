@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="taml"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=5 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+            <FeatureIndex index="2" value="2"/>
+            <FeatureIndex index="3" value="3"/>
+            <FeatureIndex index="4" value="4"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=5 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="abvs"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="akhn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="blws"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="half"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="haln"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=5 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="u0B95">
+            <Ligature components="u0BC0" glyph="u0B95_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0B95_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B95_u0BCD_u0BB7.akhn">
+            <Ligature components="u0BC0" glyph="u0B95_u0BCD_u0BB7.akhn_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0B95_u0BCD_u0BB7.akhn_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B99">
+            <Ligature components="u0BC0" glyph="u0B99_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0B99_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9A">
+            <Ligature components="u0BC0" glyph="u0B9A_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0B9A_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9C">
+            <Ligature components="u0BC0" glyph="u0B9C_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0B9C_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9E">
+            <Ligature components="u0BC0" glyph="u0B9E_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0B9E_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9F">
+            <Ligature components="u0BC0" glyph="u0B9F_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0B9F_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA3">
+            <Ligature components="u0BC0" glyph="u0BA3_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BA3_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA4">
+            <Ligature components="u0BC0" glyph="u0BA4_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BA4_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA8">
+            <Ligature components="u0BC0" glyph="u0BA8_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BA8_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA9">
+            <Ligature components="u0BC0" glyph="u0BA9_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BA9_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAA">
+            <Ligature components="u0BC0" glyph="u0BAA_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BAA_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAE">
+            <Ligature components="u0BC0" glyph="u0BAE_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BAE_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAF">
+            <Ligature components="u0BC0" glyph="u0BAF_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BAF_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB0">
+            <Ligature components="u0BC0" glyph="u0BB0_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BB0_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB1">
+            <Ligature components="u0BC0" glyph="u0BB1_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BB1_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB2">
+            <Ligature components="u0BC0" glyph="u0BB2_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BB2_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB3">
+            <Ligature components="u0BC0" glyph="u0BB3_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BB3_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB4">
+            <Ligature components="u0BC0" glyph="u0BB4_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BB4_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB5">
+            <Ligature components="u0BC0" glyph="u0BB5_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BB5_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB6">
+            <Ligature components="u0BBF" glyph="u0BB6_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB6_u0BCD.half">
+            <Ligature components="u0BB0,u0BC0" glyph="u0BB6_u0BCD.half_u0BB0_u0BC0.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB7">
+            <Ligature components="u0BC0" glyph="u0BB7_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BB7_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB8">
+            <Ligature components="u0BC0" glyph="u0BB8_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BB8_u0BBF.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB8_u0BCD.half">
+            <Ligature components="u0BB0,u0BC0" glyph="u0BB6_u0BCD.half_u0BB0_u0BC0.abvs"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB9">
+            <Ligature components="u0BC0" glyph="u0BB9_u0BC0.abvs"/>
+            <Ligature components="u0BBF" glyph="u0BB9_u0BBF.abvs"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="u0B95">
+            <Ligature components="u0BCD,u0BB7" glyph="u0B95_u0BCD_u0BB7.akhn"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="u0B95">
+            <Ligature components="u0BC2" glyph="u0B95_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0B95_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B99">
+            <Ligature components="u0BC2" glyph="u0B99_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0B99_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9A">
+            <Ligature components="u0BC2" glyph="u0B9A_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0B9A_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9E">
+            <Ligature components="u0BC2" glyph="u0B9E_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0B9E_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9F">
+            <Ligature components="u0BC2" glyph="u0B9F_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0B9F_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA3">
+            <Ligature components="u0BC2" glyph="u0BA3_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BA3_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA4">
+            <Ligature components="u0BC2" glyph="u0BA4_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BA4_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA8">
+            <Ligature components="u0BC2" glyph="u0BA8_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BA8_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA9">
+            <Ligature components="u0BC2" glyph="u0BA9_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BA9_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAA">
+            <Ligature components="u0BC2" glyph="u0BAA_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BAA_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAE">
+            <Ligature components="u0BC2" glyph="u0BAE_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BAE_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAF">
+            <Ligature components="u0BC2" glyph="u0BAF_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BAF_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB0">
+            <Ligature components="u0BC2" glyph="u0BB0_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BB0_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB1">
+            <Ligature components="u0BC2" glyph="u0BB1_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BB1_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB2">
+            <Ligature components="u0BC2" glyph="u0BB2_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BB2_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB3">
+            <Ligature components="u0BC2" glyph="u0BB3_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BB3_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB4">
+            <Ligature components="u0BC2" glyph="u0BB4_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BB4_u0BC1.blws"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB5">
+            <Ligature components="u0BC2" glyph="u0BB5_u0BC2.blws"/>
+            <Ligature components="u0BC1" glyph="u0BB5_u0BC1.blws"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="u0B95">
+            <Ligature components="u0BCD" glyph="u0B95_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B95_u0BCD_u0BB7.akhn">
+            <Ligature components="u0BCD" glyph="u0B95_u0BCD_u0BB7.akhn_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B99">
+            <Ligature components="u0BCD" glyph="u0B99_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9A">
+            <Ligature components="u0BCD" glyph="u0B9A_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9C">
+            <Ligature components="u0BCD" glyph="u0B9C_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9E">
+            <Ligature components="u0BCD" glyph="u0B9E_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9F">
+            <Ligature components="u0BCD" glyph="u0B9F_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA3">
+            <Ligature components="u0BCD" glyph="u0BA3_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA4">
+            <Ligature components="u0BCD" glyph="u0BA4_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA8">
+            <Ligature components="u0BCD" glyph="u0BA8_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA9">
+            <Ligature components="u0BCD" glyph="u0BA9_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAA">
+            <Ligature components="u0BCD" glyph="u0BAA_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAE">
+            <Ligature components="u0BCD" glyph="u0BAE_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAF">
+            <Ligature components="u0BCD" glyph="u0BAF_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB0">
+            <Ligature components="u0BCD" glyph="u0BB0_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB1">
+            <Ligature components="u0BCD" glyph="u0BB1_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB2">
+            <Ligature components="u0BCD" glyph="u0BB2_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB3">
+            <Ligature components="u0BCD" glyph="u0BB3_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB4">
+            <Ligature components="u0BCD" glyph="u0BB4_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB5">
+            <Ligature components="u0BCD" glyph="u0BB5_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB6">
+            <Ligature components="u0BC0" glyph="u0BB6_u0BC0.half"/>
+            <Ligature components="u0BCD" glyph="u0BB6_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB7">
+            <Ligature components="u0BCD" glyph="u0BB7_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB8">
+            <Ligature components="u0BCD" glyph="u0BB8_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB9">
+            <Ligature components="u0BCD" glyph="u0BB9_u0BCD.half"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="u0B95">
+            <Ligature components="u0BCD" glyph="u0B95_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B95_u0BCD_u0BB7.akhn">
+            <Ligature components="u0BCD" glyph="u0B95_u0BCD_u0BB7.akhn_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B99">
+            <Ligature components="u0BCD" glyph="u0B99_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9A">
+            <Ligature components="u0BCD" glyph="u0B9A_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9C">
+            <Ligature components="u0BCD" glyph="u0B9C_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9E">
+            <Ligature components="u0BCD" glyph="u0B9E_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0B9F">
+            <Ligature components="u0BCD" glyph="u0B9F_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA3">
+            <Ligature components="u0BCD" glyph="u0BA3_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA4">
+            <Ligature components="u0BCD" glyph="u0BA4_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA8">
+            <Ligature components="u0BCD" glyph="u0BA8_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BA9">
+            <Ligature components="u0BCD" glyph="u0BA9_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAA">
+            <Ligature components="u0BCD" glyph="u0BAA_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAE">
+            <Ligature components="u0BCD" glyph="u0BAE_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BAF">
+            <Ligature components="u0BCD" glyph="u0BAF_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB0">
+            <Ligature components="u0BCD" glyph="u0BB0_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB1">
+            <Ligature components="u0BCD" glyph="u0BB1_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB2">
+            <Ligature components="u0BCD" glyph="u0BB2_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB3">
+            <Ligature components="u0BCD" glyph="u0BB3_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB4">
+            <Ligature components="u0BCD" glyph="u0BB4_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB5">
+            <Ligature components="u0BCD" glyph="u0BB5_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB6">
+            <Ligature components="u0BC0" glyph="u0BB6_u0BC0.half"/>
+            <Ligature components="u0BCD" glyph="u0BB6_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB7">
+            <Ligature components="u0BCD" glyph="u0BB7_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB8">
+            <Ligature components="u0BCD" glyph="u0BB8_u0BCD.half"/>
+          </LigatureSet>
+          <LigatureSet glyph="u0BB9">
+            <Ligature components="u0BCD" glyph="u0BB9_u0BCD.half"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
